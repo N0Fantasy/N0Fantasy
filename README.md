@@ -1,6 +1,4 @@
-![Header](https://github.com/N0Fantasy/N0Fantasy/blob/main/assets/matrixRain.gif)
-
-## I am a beginner front-end developer
+# I am a beginner front-end developer
 
 ## Languages and Tools
 
