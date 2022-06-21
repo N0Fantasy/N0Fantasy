@@ -12,6 +12,6 @@
 
 ## Contacts
 
-![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)
-![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/N0_Fantasy)
+[![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/n0_fantasy)
 
